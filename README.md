@@ -1,5 +1,5 @@
 # Landing Page
-// link
+![homepage](https://i.imgur.com/KVHOjCH.png)
 
 A customized landing page I've created in the past months, initially it was stored at my local dotfiles but I've decided to export it to a separate repository where I can better track it's changes.
 
